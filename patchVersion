@@ -1,1 +1,7 @@
 // json code
+{
+	"file_name": "patchVersion",
+	"app_version": "1.0.0",
+	"js_version": "1",
+	"js_url": "https://github.com/hotJSPatch/",
+}
